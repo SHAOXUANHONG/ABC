@@ -8,12 +8,6 @@ public class CalTest {
 	public static void main(String[] args) {
 		Calculator number = new Calculator();
 		private int a=0;
-<<<<<<< HEAD
-		private String master="master";
-=======
-		private String master=null;
-		private String whoareu=null;
->>>>>>> whoareu
 		
 		while (true) {
 			try {
