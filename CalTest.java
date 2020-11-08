@@ -9,6 +9,7 @@ public class CalTest {
 		Calculator number = new Calculator();
 		private int a=0;
 		private String master=null;
+		private String whoareu=null;
 		
 		while (true) {
 			try {
