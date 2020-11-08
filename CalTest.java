@@ -8,7 +8,6 @@ public class CalTest {
 	public static void main(String[] args) {
 		Calculator number = new Calculator();
 		private int a=0;
-		private int b=0;
 		
 		while (true) {
 			try {
