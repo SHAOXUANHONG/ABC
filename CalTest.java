@@ -10,6 +10,7 @@ public class CalTest {
 		private int a=0;
 		private String master=null;
 		private String whoareu="whoareu";
+		//i am clone ~~~
 		
 		while (true) {
 			try {
